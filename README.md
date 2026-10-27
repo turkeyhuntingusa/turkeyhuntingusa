@@ -8,5 +8,5 @@ It provides season dates, regulations, harvest logging, mapping tools, and more.
 
 ## Links
 🌐 Website: https://turkeyhuntingusa.com  
-📱 Mobile App: Coming soon to iOS and Android  
+📱 Mobile App: https://www.turkeyhuntingusa.com/hunting-app
 🦃 YouTube: https://www.youtube.com/@TurkeyHuntingUSA
